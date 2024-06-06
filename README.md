@@ -1,2 +1,2 @@
-# Computa-o-Gr-fica
+# Computacao-Grafica
 Projeto desenvolvido em Computação Gráfica
