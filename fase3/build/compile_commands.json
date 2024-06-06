@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/rui/uni/3ano2sem/CG/CG/fase3/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/generator.dir/generator.cpp.o -c /home/rui/uni/3ano2sem/CG/CG/fase3/generator.cpp",
+  "file": "/home/rui/uni/3ano2sem/CG/CG/fase3/generator.cpp"
+},
+{
+  "directory": "/home/rui/uni/3ano2sem/CG/CG/fase3/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/generator.dir/parser.cpp.o -c /home/rui/uni/3ano2sem/CG/CG/fase3/parser.cpp",
+  "file": "/home/rui/uni/3ano2sem/CG/CG/fase3/parser.cpp"
+},
+{
+  "directory": "/home/rui/uni/3ano2sem/CG/CG/fase3/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/generator.dir/tinyxml/tinyxml2.cpp.o -c /home/rui/uni/3ano2sem/CG/CG/fase3/tinyxml/tinyxml2.cpp",
+  "file": "/home/rui/uni/3ano2sem/CG/CG/fase3/tinyxml/tinyxml2.cpp"
+},
+{
+  "directory": "/home/rui/uni/3ano2sem/CG/CG/fase3/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/engine.dir/engine.cpp.o -c /home/rui/uni/3ano2sem/CG/CG/fase3/engine.cpp",
+  "file": "/home/rui/uni/3ano2sem/CG/CG/fase3/engine.cpp"
+},
+{
+  "directory": "/home/rui/uni/3ano2sem/CG/CG/fase3/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/engine.dir/parser.cpp.o -c /home/rui/uni/3ano2sem/CG/CG/fase3/parser.cpp",
+  "file": "/home/rui/uni/3ano2sem/CG/CG/fase3/parser.cpp"
+},
+{
+  "directory": "/home/rui/uni/3ano2sem/CG/CG/fase3/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/engine.dir/tinyxml/tinyxml2.cpp.o -c /home/rui/uni/3ano2sem/CG/CG/fase3/tinyxml/tinyxml2.cpp",
+  "file": "/home/rui/uni/3ano2sem/CG/CG/fase3/tinyxml/tinyxml2.cpp"
+}
+]
