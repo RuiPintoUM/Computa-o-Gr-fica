@@ -1,0 +1,4 @@
+/home/rui/uni/3ano2sem/CG/CG/fase2/build/CMakeFiles/generator.dir
+/home/rui/uni/3ano2sem/CG/CG/fase2/build/CMakeFiles/engine.dir
+/home/rui/uni/3ano2sem/CG/CG/fase2/build/CMakeFiles/edit_cache.dir
+/home/rui/uni/3ano2sem/CG/CG/fase2/build/CMakeFiles/rebuild_cache.dir
