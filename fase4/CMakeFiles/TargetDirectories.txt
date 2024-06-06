@@ -1,0 +1,4 @@
+/home/ricardo/Desktop/cg/repository/CG/fase4/CMakeFiles/generator.dir
+/home/ricardo/Desktop/cg/repository/CG/fase4/CMakeFiles/engine.dir
+/home/ricardo/Desktop/cg/repository/CG/fase4/CMakeFiles/edit_cache.dir
+/home/ricardo/Desktop/cg/repository/CG/fase4/CMakeFiles/rebuild_cache.dir
